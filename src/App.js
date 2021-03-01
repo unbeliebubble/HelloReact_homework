@@ -54,7 +54,7 @@ function App() {
           <div className="box2_content">
             <p className="box2_info1">or any questions or suggestions about Vegetables, Vegetables Club or your online order you can contact Vegetables Customer Service by phone, email or post and we’ll be happy to help.</p>
             <div className="box2_line"></div>
-            <div className="box2_info2">E-mail : Vegetables@aaabbccc.com <br />PHONE :+886-123-456-78 </div>
+            <div className="box2_info2">E-mail : Vegetables@aaabbccc.com PHONE :+886-123-456-78 </div>
 
           </div>
         </div>
